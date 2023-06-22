@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------
  
 Estimação bayesiana de um modelo de espaço-estado capaz de estimar o hiato de produto e
-o produto potencial da economia brazileira.
+o produto potencial da economia brasileira.
 
 ### Modelo dinâmico com parâmetros constantes:
 
