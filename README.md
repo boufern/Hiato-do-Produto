@@ -1,5 +1,5 @@
 
-## Hiato do produto (Em desenvolvimento)
+## Hiato do Produto (projeto em desenvolvimento)
 -------------------------------------------------------------------------------------
  
 Estimação bayesiana de um modelo de espaço-estado capaz de estimar o hiato de produto e
@@ -17,3 +17,10 @@ $y_{t}$ -- log do produto\
 $\mu(t)$ -- produto potencial\
 $\eta(t)$ -- hiato do produto
  
+### Priors e Valores Iniciais
+
+$\phi_{1} \to$ N(0.7,0.1)\
+$\phi_{2} \to$ N(0,0.05)\
+$\delta \to $N(0.005,0.01)\
+$R \to$ IG(5,0.05)\
+$\eta_{0} \to$ N([0 0], 0.01*I(2))
