@@ -1,5 +1,5 @@
 
-# Hiato do produto
+## Hiato do produto (Em desenvolvimento)
 -------------------------------------------------------------------------------------
  
 Estimação bayesiana de um modelo de espaço-estado capaz de estimar o hiato de produto e
