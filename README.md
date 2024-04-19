@@ -26,6 +26,6 @@ $Q \to$ IG(5,0.05)\
 $R \to$ IG(5,0.05)\
 $\eta_{0} \to$ N([0 0], 0.01 $\times$ I(2))\
 
-As priors refletem que é provável que $\eta_{t}$ seja estacionário, que o crescimento do produto seja mais ou menos 2% ao ano com incerteza substancial em torno de sua média. As priors das variâncias são definidas com razoável incerteza de modo que suas médias sejam a metade da variância total do log do produto. Os estado inicial $\eta_{0}$ = [ $\eta_{t}$ $\eta_{t-1}$ ]' impõe a crença de que a economia estava próxima à tendência no começo da amostra.
+As priors refletem que é provável que $\eta_{t}$ seja estacionário, que o crescimento do produto seja mais ou menos 2% ao ano com incerteza substancial em torno de sua média. As priors das variâncias são definidas com razoável incerteza de modo que suas médias sejam a metade da variância total do log do produto. Os estado inicial $\eta_{0}$ = [ $\eta_{t}$ $\eta_{t-1}$ ]' impõe a crença de que a economia estava próxima à tendência no começo da amostra de dados.
 
 
