@@ -1,5 +1,5 @@
 
-## Hiato do Produto (projeto em desenvolvimento)
+## Hiato do Produto do Quarto Trimestre de 2023
 -------------------------------------------------------------------------------------
  
 Estimação bayesiana de um modelo de espaço-estado capaz de estimar o hiato de produto e
