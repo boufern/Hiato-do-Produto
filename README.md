@@ -14,7 +14,7 @@ $\eta_{t} = \phi_{1}\eta_{t-1} + \phi_{2}\eta_{t-2} + v_{t}$    , $v(t) \to N(0,
 
 onde:\
 $y_{t}$ -- log do produto\
-$\mu_{t$ -- produto potencial\
+$\mu_{t}$ -- produto potencial\
 $\eta_{t}$ -- hiato do produto
  
 ### Priors e Valores Iniciais
